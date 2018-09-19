@@ -1,5 +1,5 @@
 #
-# Cookbook:: MyCookBook
+# Cookbook:: mycookbook
 # Recipe:: default
 #
-# Copyright:: 2018, The Authors, All Rights Reserved.
+# Copyright:: 2017, The Authors, All Rights Reserved.
